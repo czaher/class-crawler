@@ -1,0 +1,191 @@
+AADM Arts Administration
+ACCT Accounting
+AE Architectural Engineering
+AEEM Aero Engr & Engr Mechanic
+AIS Applied Interdiscipln Stud
+AIST Asian Studies
+ALH Allied Health
+AMIT Adv Med Imaging Tech
+AMSN Acceler Master's Nursing
+ANAN Adv Nrs - Nurse Anethesia
+ANNA Adv Nrs - Nurse Admin
+ANNP Adv Nrs - Nurse Pract
+ANPC Adv Nrs - Parent Child
+ANPS Adv Nrs - Psychiatric
+ANTH Anthropology
+ANW Adv Nurse - Women
+ARAB Arabic Langs & Culture
+ARCH Architecture
+ARTH Art History
+ASL American Sign Language
+AVTN Aviation Technology
+BA Business Admin
+BANA Business Analytics
+BE Biostats & Epidemiology
+BIOL Biological Sciences
+BIT Business Info Technology
+BLAW Business Law
+BME Biomedical Engineering
+BMIN Biomedical Informatics
+CB Cell & Molecular Biology
+CHE Chemical Engineering
+CHEM Chemistry
+CI Curriculum & Instruction
+CJ Criminal Justice
+CJTN Criminal Justice Tech
+CLAS Classics
+CM Construction Management
+CMDS Communication Design
+CMT Comp/Mclgy/Theory
+CNSL Counseling
+CODE Communication Design
+COMM Communication
+COND Conducting
+COOP Cooperative Education
+CS Computer Science
+CSD Comm Sciences Disorders
+CSST Computer Systems Support
+CVE Civil Engineering
+DAAP Dsn, Arch, Art & Planning
+DHYG Dental Hygiene
+DMC Digital Media Collaborativ
+DRPF Dramatic Performance
+DSGN Design
+ECE Early Childhood Education
+ECED Economic Education
+ECON Economics
+EDLD Educational Leadership
+EDST Educational Studies
+EECE Electrical & Comp Eng
+EFDA Expanded Func Dental Aux
+ELTN Electronic Technology
+EMDT Electronic Media Tech
+EMED Electronic Media
+ENED Engineering Education
+ENGL English
+ENGR Engineering
+ENTR Entrepreneurship/Fam Bus
+ENV Environmental Health
+ENVE Environmental Engineering
+ESL English as a Second Lang
+EVST Environmental Studies
+FAA Fine Arts - Art
+FAM Fine Arts - Music
+FASH Fashion Design
+FILM Film & Media Studies
+FIN Finance
+FREN French
+FST Fire Science
+GC Genetic Counseling
+GEOG Geography
+GEOL Geology
+GNTD Graduate Medicine Intd
+GRMN German
+HCA Healthcare Administration
+HCMT Health Care Management
+HDCE Human Dev & Comm Engage
+HFL Health, Fit & Leisure Stds
+HI Health Informatics
+HIM Health Info Mgt
+HIST History
+HLSC Health Sciences
+HLTH Interdisc Health Ed
+HNPL Honors Plus
+HNRS Honors
+HORT Horticulture
+HPE Health Education
+HSST Human Soc Servs Tech
+HVAC Station Engr
+IDT Instructional Desgn & Tech
+IMMU Immunology
+INDL Industrial Design
+INT Internship
+INTB International Business
+INTD Interior Design
+INTR Interdisciplinary
+IRM Insurance & Risk Mgmt
+IS Information Systems
+IT Information Technology
+JAPN Japanese Lang & Cult
+JOUR Journalism
+JUDC Judaic Studies
+KYBD Keyboard Studies
+LAND Landscape Architecture
+LAW - Individual Rights
+LAW - Litigation
+LPE Lindner Professional Exp
+LSLS Literacy & Sec Lang Stds
+M3 Medicine
+M4 Medicine
+MATH Mathematical Sciences
+MCBP Molec, Cell & Biochm Phrm
+MCP Molecular & Cell Phys
+MDL Middle Childhood Education
+MECH Mechanical Engineering
+MED Medicine
+MEDS Medical Sciences
+MET Mechanical Eng Tech
+MFTN Manufacturing Eng Tech
+MG Molec, Biochm, Micro, Immu
+MGMT Management
+MKTG Marketing
+MLIT Music Literature
+MLSC Medical Lab Science
+MLTI Multidisc
+MTEN Materials Engineering
+MUED Music Education
+MUHS Music History
+NBSN Bacc Nursing
+NDNP Doctorate of Nursing Prac
+NPHD PhD in Nursing
+NS Neuroscience
+NSTN Nursing Technology
+NURS Nursing Success
+NUTR Nutrition Sciences
+OM Operations Management
+ORGL Organizational Leadership
+OT Occupational Therapy
+PARA Paralegal Studies
+PCEU Pharmacy-Pharmaceutics
+PD Professional Development
+PERF Performance Studies
+PH Public Health
+PHDD Pharmaceutical Drug Dev
+PHID Pharmacy-Interdisc
+PHIL Philosophy
+PHLD Pharmacy Leadership
+PHPE Pharmacy-Profl Experien
+PHRX Pharm Practice
+PHTG Photography
+PHTH Pharmacy-Therapeutics
+PHYS Physics
+PIAN Piano
+PLAN Planning
+PMM Pathobio & Molecu Medi
+POL Political Science
+PRFS Professional Seminar
+PSCI Pharmaceutical Sciences
+PSTP Physician Sci Trng Prog
+PSYC Psychology
+PT Physical Therapy
+PTA Physical Therapist Asst
+RDSC Radiation Science
+RDTN Radiologic Technology
+RE Real Estate
+RELG Religious Studies
+RSTH Respiratory Therapy
+RT Respiratory Therapy
+SACN Substance Abuse Counsel
+SLCE Serv Lng & Civic Eng
+SMGT Sports Management
+SOC Sociology
+SPAN Spanish
+SPED Special Education
+SPSY School Psychology
+ST Surgical Technician
+STAT Statistics
+SW Social Work
+THPR Theater Production
+THRY Music Theory
+VETN Veterinary Technology
+WGS Women Gndr Sexl
